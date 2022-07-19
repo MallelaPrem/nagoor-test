@@ -8,6 +8,9 @@ worker_processes  1;
 
 #pid        logs/nginx.pid;
 
+Hello
+Am prem
+Doing git learnings
 
 events {
     worker_connections  1024;
